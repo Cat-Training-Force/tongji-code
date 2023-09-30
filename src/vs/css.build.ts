@@ -1,5 +1,5 @@
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
@@ -97,7 +97,7 @@ export function writeFile(pluginName: string, moduleName: string, req: AMDLoader
 		const fileName = req.toUrl(moduleName + '.css');
 		const contents = [
 			'/*---------------------------------------------------------',
-			' * Copyright (c) Microsoft Corporation. All rights reserved.',
+			' * Copyright (c) Tongji University. All rights reserved.',
 			' *--------------------------------------------------------*/'
 		],
 			entries = entryPoints[moduleName];

@@ -1,4 +1,4 @@
-# Copyright Microsoft Corporation
+# Copyright Tongji University
 
 function Test-IsAdmin() {
     try {

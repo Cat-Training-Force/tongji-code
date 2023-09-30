@@ -1,9 +1,9 @@
 {
-  "name": "code-oss-dev",
+  "name": "tongji-code",
   "version": "1.83.0",
   "distro": "c13fa037c20b672a48c9e7990df10998974196f9",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Tongji University"
   },
   "license": "MIT",
   "main": "./out/main",
@@ -223,10 +223,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode.git"
+    "url": "https://github.com/Cat-Training-Force/tongji-code.git"
   },
   "bugs": {
-    "url": "https://github.com/microsoft/vscode/issues"
+    "url": "https://github.com/Cat-Training-Force/tongji-code/issues"
   },
   "optionalDependencies": {
     "windows-foreground-love": "0.5.0"

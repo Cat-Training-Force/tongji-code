@@ -1,5 +1,5 @@
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
@@ -405,7 +405,7 @@ function patchWin32DependenciesTask(destinationFolderName) {
 			await rcedit(path.join(cwd, dep), {
 				'file-version': baseVersion,
 				'version-string': {
-					'CompanyName': 'Microsoft Corporation',
+					'CompanyName': 'Tongji University',
 					'FileDescription': product.nameLong,
 					'FileVersion': packageJson.version,
 					'InternalName': basename,

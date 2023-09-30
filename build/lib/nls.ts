@@ -1,5 +1,5 @@
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
@@ -57,7 +57,7 @@ function template(lines: string[]): string {
 	}
 
 	return `/*---------------------------------------------------------
- * Copyright (C) Microsoft Corporation. All rights reserved.
+ * Copyright (C) Tongji University. All rights reserved.
  *--------------------------------------------------------*/
 define([], [${wrap + lines.map(l => indent + l).join(',\n') + wrap}]);`;
 }

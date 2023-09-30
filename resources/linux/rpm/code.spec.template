@@ -3,7 +3,7 @@ Version:  @@VERSION@@
 Release:  @@RELEASE@@.el7
 Summary:  Code editing. Redefined.
 Group:    Development/Tools
-Vendor:   Microsoft Corporation
+Vendor:   Tongji University
 Packager: Visual Studio Code Team <vscode-linux@microsoft.com>
 License:  @@LICENSE@@
 URL:      https://code.visualstudio.com/

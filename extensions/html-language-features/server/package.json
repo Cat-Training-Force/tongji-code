@@ -2,7 +2,7 @@
   "name": "vscode-html-languageserver",
   "description": "HTML language server",
   "version": "1.0.0",
-  "author": "Microsoft Corporation",
+  "author": "Tongji University",
   "license": "MIT",
   "engines": {
     "node": "*"

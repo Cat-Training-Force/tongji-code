@@ -2,7 +2,7 @@
   "name": "vscode-markdown-languageserver",
   "description": "Markdown language server",
   "version": "0.4.0-alpha.6",
-  "author": "Microsoft Corporation",
+  "author": "Tongji University",
   "license": "MIT",
   "engines": {
     "node": "*"

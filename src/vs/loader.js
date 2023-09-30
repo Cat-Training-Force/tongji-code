@@ -1,10 +1,10 @@
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 'use strict';
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ var AMDLoader;
 	AMDLoader.Environment = Environment;
 })(AMDLoader || (AMDLoader = {}));
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 var AMDLoader;
@@ -115,7 +115,7 @@ var AMDLoader;
 	AMDLoader.NullLoaderEventRecorder = NullLoaderEventRecorder;
 })(AMDLoader || (AMDLoader = {}));
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 var AMDLoader;
@@ -215,7 +215,7 @@ var AMDLoader;
 	AMDLoader.Utilities = Utilities;
 })(AMDLoader || (AMDLoader = {}));
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 var AMDLoader;
@@ -534,7 +534,7 @@ var AMDLoader;
 	AMDLoader.Configuration = Configuration;
 })(AMDLoader || (AMDLoader = {}));
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 var AMDLoader;
@@ -1038,7 +1038,7 @@ var AMDLoader;
 	AMDLoader.createScriptLoader = createScriptLoader;
 })(AMDLoader || (AMDLoader = {}));
 /*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Copyright (c) Tongji University. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 var AMDLoader;
